@@ -7,8 +7,8 @@
 <details>
 <summary>안드로이드 4대 컴포넌트</summary>
 <br>
-<br>
 안드로이드 4대 컴포넌트란??<br>
+<br>
 컴포넌트란 구성요소를 의미한다.<br>
 다시 말해서 안드로이드 4대 컴포넌트란 안드로이드 앱을 구성하는데 필요한 4개의 요소를 의미한다. 안드로이드 4대 컴포넌트에는 액티비티(Activity), 서비스(Service), 방송 수신자(Broadcast Receiver), 콘텐트 제공자(Content Provider)가 있다.<br>
 - 각 컴포넌트는 독립적으로 존재한다.
