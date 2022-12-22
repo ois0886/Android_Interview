@@ -16,7 +16,14 @@
 - 각 컴포넌트들은 고유의 기능을 수행한다.
 - 각 컴포넌트들은 인텐트를 통해 서로 상호작용한다.
 
-# 액티비티()
+## 1.액티비티(Activity)
+
+## 2.서비스(Service)
+
+## 3.방송 수신자(Broadcast Receiver)
+
+## 4.콘텐트 제공자(Content Provider)
+
 
 </details>
 
