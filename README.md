@@ -56,6 +56,19 @@
 
 </details>
 
+# Kotlin
+<details>
+
+<summary>data class, enum class, sealed class </summary>
+
+## data class
+
+## enum class
+
+## sealed class
+
+</details>
+
 # OS
 <details>
 <summary>프로세스와 스레드의 차이</summary>
