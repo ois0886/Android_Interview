@@ -54,6 +54,9 @@
  - 프로바이더는 데이터의 Read, Write에 대한 퍼미션이 있어야 Application에 접근이 가능합니다.
  - 데이터베이스에서 흔히 사용되는 CRUD 원칙을 준수한다.
 
+
+<summary> Mvc,mvp,mvvm,mvi </summary>
+
 </details>
 
 # Kotlin
@@ -68,6 +71,9 @@
 ## sealed class
 
 </details>
+
+
+<summary>스코프함수 run, with, apply, let</summary>
 
 # OS
 <details>
