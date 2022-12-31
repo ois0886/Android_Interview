@@ -68,8 +68,10 @@
 <summary>data class, enum class, sealed class </summary>
 
 ## data class
+[data class란](https://superohinsung.tistory.com/58)
 
 ## enum class
+[enum class란](https://superohinsung.tistory.com/59)
 
 ## sealed class
 
