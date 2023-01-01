@@ -58,7 +58,15 @@
 
 <details>
 
-<summary> Mvc,mvp,mvvm,mvi </summary>
+<summary> MVC,MVP,MVVM,MVI </summary>
+
+[MVC](https://superohinsung.tistory.com/64)
+
+[MVP](https://superohinsung.tistory.com/65)
+
+[MVVM]()
+
+[MVI]()
 
 </details>
 
@@ -67,19 +75,19 @@
 
 <summary>data class, enum class, sealed class </summary>
 
-## data class
 [data class란](https://superohinsung.tistory.com/58)
 
-## enum class
 [enum class란](https://superohinsung.tistory.com/59)
 
-## sealed class
+[sealed class란](https://superohinsung.tistory.com/61)
 
 </details>
 
 <details>
 
 <summary>스코프함수 run, with, apply, let</summary>
+
+[스코프 함수 정리](https://superohinsung.tistory.com/63)
 
 </details>
 
