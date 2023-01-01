@@ -64,7 +64,7 @@
 
 [MVP](https://superohinsung.tistory.com/65)
 
-[MVVM]()
+[MVVM](https://superohinsung.tistory.com/66)
 
 [MVI]()
 
