@@ -23,7 +23,7 @@
 
 <summary> 의존성 주입 </summary>
 
-[의존성 주입]()
+[의존성 주입]() // TODO
 
 </details>
 
@@ -37,7 +37,7 @@
 
 [MVVM](https://superohinsung.tistory.com/66)
 
-[MVI]()
+[MVI]() // TODO
 
 </details>
 
@@ -93,6 +93,6 @@
 
 <summary> TCP, UDP 정리 </summary>
 
-[TCP, UDP 정리]()
+[TCP, UDP 정리]() // TODO
 
 </details>
