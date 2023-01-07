@@ -13,6 +13,22 @@
 
 <details>
 
+<summary> 클린 아키텍처</summary>
+
+[클린 아키텍처]()
+
+</details>
+
+<details>
+
+<summary> 의존성 주입 </summary>
+
+[의존성 주입]()
+
+</details>
+
+<details>
+
 <summary> MVC,MVP,MVVM,MVI </summary>
 
 [MVC](https://superohinsung.tistory.com/64)
