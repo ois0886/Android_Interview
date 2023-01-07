@@ -15,7 +15,7 @@
 
 <summary> 클린 아키텍처</summary>
 
-[클린 아키텍처]()
+[클린 아키텍처](https://superohinsung.tistory.com/74)
 
 </details>
 
