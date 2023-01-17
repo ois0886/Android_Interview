@@ -37,6 +37,16 @@
 
 <details>
 
+<summary> Activity와 Fragment 생명주기 </summary>
+
+[Activity의 생명주기](https://superohinsung.tistory.com/56)
+
+[Fragment의 생명주기](https://superohinsung.tistory.com/86)
+
+</details>
+
+<details>
+
 <summary> MVC,MVP,MVVM,MVI </summary>
 
 [MVC](https://superohinsung.tistory.com/64)
@@ -67,6 +77,14 @@
 <summary>스코프함수 run, with, apply, let</summary>
 
 [스코프 함수 정리](https://superohinsung.tistory.com/63)
+
+</details>
+
+<details>
+
+<summary> static, object, companion object 정리 </summary>
+
+[static, object, companion object 정리](https://superohinsung.tistory.com/83)
 
 </details>
 
@@ -102,5 +120,23 @@
 <summary> TCP, UDP 정리 </summary>
 
 [TCP, UDP 정리]() // TODO
+
+</details>
+
+<details>
+
+<summary>'www.google.com'을 주소창에서 입력하면 일어나는 일 </summary>
+
+['www.google.com'을 주소창에서 입력하면 일어나는 일](https://superohinsung.tistory.com/85)
+
+</details>
+
+# Computer Architecture
+
+<details>
+
+<summary> 중앙처리장치(CPU) 작동 원리 </summary>
+
+[중앙처리장치(CPU) 작동 원리](https://superohinsung.tistory.com/84)
 
 </details>
