@@ -71,7 +71,7 @@
 
 <summary> 인텐트(Intent) </summary>
 
-[인텐트(Intent)](https://superohinsung.tistory.com/100) // TODO
+[인텐트(Intent)](https://superohinsung.tistory.com/100)
 
 </details>
 
