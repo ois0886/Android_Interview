@@ -59,6 +59,22 @@
 
 </details>
 
+<details>
+
+<summary> 컨텍스트(Context) </summary>
+
+[컨텍스트(Context)]() // TODO
+
+</details>
+
+<details>
+
+<summary> 인텐트(Intent) </summary>
+
+[인텐트(Intent)]() // TODO
+
+</details>
+
 # Kotlin
 <details>
 
@@ -88,6 +104,11 @@
 
 </details>
 
+<summary> 코루틴(coroutine) </summary>
+
+[코루틴(coroutine)]() // TODO
+
+</details>
 
 # OS
 <details>
@@ -120,6 +141,14 @@
 <summary> TCP, UDP 정리 </summary>
 
 [TCP, UDP 정리]() // TODO
+
+</details>
+
+<details>
+
+<summary> HTTP란 </summary>
+
+[HTTP란]() // TODO
 
 </details>
 
