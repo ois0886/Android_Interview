@@ -63,7 +63,7 @@
 
 <summary> 컨텍스트(Context) </summary>
 
-[컨텍스트(Context)]() // TODO
+[컨텍스트(Context)](https://superohinsung.tistory.com/99)
 
 </details>
 
@@ -71,7 +71,7 @@
 
 <summary> 인텐트(Intent) </summary>
 
-[인텐트(Intent)]() // TODO
+[인텐트(Intent)](https://superohinsung.tistory.com/100) // TODO
 
 </details>
 
