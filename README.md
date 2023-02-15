@@ -37,6 +37,17 @@
 
 <details>
 
+<summary> Context와 Intent 란 </summary>
+
+[Context 란](https://superohinsung.tistory.com/99)
+
+[Intent 란](https://superohinsung.tistory.com/100)
+
+</details>
+
+
+<details>
+
 <summary> Activity와 Fragment 생명주기 </summary>
 
 [Activity의 생명주기](https://superohinsung.tistory.com/56)
