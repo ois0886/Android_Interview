@@ -139,6 +139,24 @@
 
 </details>
 
+<details>
+
+<summary>메모리 관리</summary>
+
+[메모리 관리]() // TODO
+
+</details>
+
+<details>
+
+<summary>Paging, Segmentation</summary>
+
+[Paging]() // TODO
+
+[Segmentation]() // TODO
+
+</details>
+
 # NETWORK
 
 <details>
@@ -180,5 +198,15 @@
 <summary> 중앙처리장치(CPU) 작동 원리 </summary>
 
 [중앙처리장치(CPU) 작동 원리](https://superohinsung.tistory.com/84)
+
+</details>
+
+# JAVA
+
+<details>
+
+<summary> Garbage Collction(가비지 컬렉션) 이란 </summary>
+
+[Garbage Collction(가비지 컬렉션) 이란]() // TODO
 
 </details>
