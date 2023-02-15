@@ -13,14 +13,6 @@
 
 <details>
 
-<summary> 액티비티 라이프 사이클</summary>
-
-[액티비티 라이프 사이클](https://superohinsung.tistory.com/56)
-
-</details>
-
-<details>
-
 <summary> 클린 아키텍처</summary>
 
 [클린 아키텍처](https://superohinsung.tistory.com/74)
