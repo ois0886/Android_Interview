@@ -149,6 +149,23 @@
 
 </details>
 
+<details>
+
+<summary>가상메모리</summary>
+
+[가상메모리]() // TODO
+
+</details>
+
+<details>
+
+<summary>CPU 스케쥴러</summary>
+
+[CPU 스케쥴러]() // TODO
+
+</details>
+
+
 # NETWORK
 
 <details>
