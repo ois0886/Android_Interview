@@ -153,7 +153,11 @@
 
 <summary>가상메모리</summary>
 
-[가상메모리]() // TODO
+[가상메모리](https://superohinsung.tistory.com/106)
+
+[요구페이징]() // TODO
+
+[요구세그먼테이션] () // TODO
 
 </details>
 
