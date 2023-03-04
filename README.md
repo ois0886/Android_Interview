@@ -157,8 +157,6 @@
 
 [요구페이징]() // TODO
 
-[요구세그먼테이션]() // TODO
-
 </details>
 
 <details>
