@@ -155,7 +155,9 @@
 
 [가상메모리](https://superohinsung.tistory.com/106)
 
-[요구페이징]() // TODO
+[요구페이징]()
+
+[참조의 지역성과 작업집합](https://superohinsung.tistory.com/108)
 
 </details>
 
@@ -163,7 +165,7 @@
 
 <summary>CPU 스케쥴러</summary>
 
-[CPU 스케쥴러]() // TODO
+[CPU 스케쥴러]()
 
 </details>
 
