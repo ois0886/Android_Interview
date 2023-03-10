@@ -214,6 +214,24 @@
 
 </details>
 
+# DataBase
+
+<details>
+
+<summary> RDBMS와 NoSQL 차이점 </summary>
+
+[RDBMS와 NoSQL 차이점](https://superohinsung.tistory.com/110) // To Do
+
+</details>
+
+<details>
+
+<summary> 정규화(1차 2차 3차 BCNF)란 </summary>
+
+[정규화(1차 2차 3차 BCNF)]() // To Do
+
+</details>
+
 # JAVA
 
 <details>
