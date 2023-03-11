@@ -241,3 +241,21 @@
 [Garbage Collction(가비지 컬렉션) 이란]() // TODO
 
 </details>
+
+# Data Structure
+
+<details>
+
+<summary> Hash에 대해서 설명해주세요 </summary>
+
+[Hash에 대해서 설명해주세요]() // TODO
+
+</details>
+
+<details>
+
+<summary> Array, ArrayList, LinkedList의 차이점 </summary>
+
+[Array, ArrayList, LinkedList의 차이점]() // TODO
+
+</details>
