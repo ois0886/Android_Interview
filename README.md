@@ -242,6 +242,12 @@
 
 </details>
 
+# Algorithm
+
+<details>
+
+</details>
+
 # Data Structure
 
 <details>
